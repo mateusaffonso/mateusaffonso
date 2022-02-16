@@ -2,7 +2,7 @@
 ##
 
 - 🔭 Atualmente, trabalho como Jovem Aprendiz no Sesc
-- 📖 Estudando HMTL, CSS e JS com foco em Front-end
+- 📖 Estudando HMTL, CSS, JS e React com foco em Front-end
 - 📙 Tenho um conhecimento básico nas seguintes linguagens: Python e JavaScript
 - 😄 Pronouns: ele/dele
 
