@@ -1,7 +1,7 @@
 ### Olá, eu sou o Mateus Augusto 👨🏾‍🦱👋🏾
 ##
 
-- 🔭 Atualmente, trabalho como Jovem Aprendiz no Sesc
+- 🎒 Estudande de Ciência da Computação na UFRJ
 - 📖 Estudando HMTL, CSS, Javascript e React com foco em Front-end
 - 📙 Tenho um conhecimento básico na seguinte linguagem: Python
 - 😄 Pronouns: ele/dele
