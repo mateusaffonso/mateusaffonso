@@ -3,7 +3,7 @@
 
 - 🎒 Estudande de Ciência da Computação na UFRJ
 - 📖 Estudando HMTL, CSS, Javascript e React com foco em Front-end
-- 📙 Tenho um conhecimento básico na seguinte linguagem: Python
+- 📙 Tenho um conhecimento básico: Python, React Native, C, Java.
 - 😄 Pronouns: ele/dele
 
 <div align="center">
