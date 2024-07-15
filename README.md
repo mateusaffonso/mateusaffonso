@@ -2,8 +2,8 @@
 ##
 
 - 🎒 Estudande de Ciência da Computação na UFRJ
-- 📖 Estudando HMTL, CSS, Javascript e React com foco em Front-end
-- 📙 Tenho um conhecimento básico: Python, React Native, C, Java.
+- 📖 Estudando Python, Estatística e Álgebra Linear para atuar como Cientista de Dados
+- 📙 Tenho conhecimento: React Native, C, Java, Front-end.
 - 😄 Pronouns: ele/dele
 
 <div align="center">
