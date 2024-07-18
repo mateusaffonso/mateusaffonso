@@ -1,8 +1,8 @@
 ### Olá, eu sou o Mateus Augusto 👨🏾‍🦱👋🏾
 ##
 
-- 🎒 Estudande de Ciência da Computação na UFRJ
-- 📖 Estudando Python, Estatística e Álgebra Linear para atuar como Cientista de Dados
+- 🎒 Estudante de Ciência da Computação na UFRJ
+- 📖 Foco em Python, Banco de dados, Estatística e Álgebra Linear para atuar como Cientista de Dados
 - 📙 Tenho conhecimento: React Native, C, Java, Front-end.
 - 😄 Pronouns: ele/dele
 
